@@ -1,6 +1,11 @@
 # responsive_design
 
-A new Flutter project.
+
+## group members:
+### k214503 Muhammad Tahir
+### K213279	Insha Javed
+### K214578	Samaha Batool
+### k213219	Muhammad Umer
 
 ## Getting Started
 
